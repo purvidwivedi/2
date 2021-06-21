@@ -25,4 +25,5 @@ void main()
 		}
 	}
 	printf("%s",a);
+	//how to push
 }
